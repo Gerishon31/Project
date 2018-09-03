@@ -18,10 +18,3 @@ function normalImg(x) {
     x.style.height = "120px";
     x.style.width = "120px";
 }
-
-
-function myFunction() {
-    document.getElementById("demo").innerHTML = "Hello World";
-}
-
-    
